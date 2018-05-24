@@ -50,7 +50,12 @@ With **GreatPeople** you can view jobs from your employer, send referrals and cr
 -	Build and maintain a ride-hailing passenger app using native Android.
 -	Working on complex architecture from backend to client.
 -	Familiar with RxJava2, Dagger 2, MVP, and MVVM
--	Play Store: https://play.google.com/store/apps/details?id=com.seatech.bluebird 
+-	Play Store: https://play.google.com/store/apps/details?id=com.seatech.bluebird
+
+### Cognito CRM (React Native)
+**Cognito** is a very fresh CRM system specified for Vietnam local market which helps to boost the marketing and sales process much faster than any other mediums by automation. Recently, the need of mobile app arises in order to assist sales to follow and keep track of their customers.
+-	User React Native combined with Redux which helps to manage states of different components.
+-	Besides, a more scalable and easy-to-maintain structure is also applied (redux, redux-saga, apisauce and reduxsauce) to ease the effort of working as team of 3-4 developers.
 
 ### New Music and GIGs (React Native)
 **New Music and GIGs (NMNG)** introduces a new way to promote new artists and bands in UK and bring their music close to the online community. Besides the website, they also need to approach mobile users due to recently fact, people love to listen to music on their smart phones.
@@ -58,11 +63,6 @@ With **GreatPeople** you can view jobs from your employer, send referrals and cr
 -	Integrate with other third party services such as Facebook, Google and Songkick.
 -	Play Store: https://play.google.com/store/apps/details?id=com.nmng 
 - App Store: https://itunes.apple.com/vn/app/new-music-and-gigs/id1102778296?mt=8 
-
-### Cognito CRM (React Native)
-**Cognito** is a very fresh CRM system specified for Vietnam local market which helps to boost the marketing and sales process much faster than any other mediums by automation. Recently, the need of mobile app arises in order to assist sales to follow and keep track of their customers.
--	User React Native combined with Redux which helps to manage states of different components.
--	Besides, a more scalable and easy-to-maintain structure is also applied (redux, redux-saga, apisauce and reduxsauce) to ease the effort of working as team of 3-4 developers.
 
 ## Education
 ### Coder School iOS Bootcamp (Swift) - October to December 2015
