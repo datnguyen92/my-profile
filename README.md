@@ -1,7 +1,14 @@
 # Nguyen Thanh Dat
 209 Le Hong Phong, D5, Ho Chi Minh, Vietnam
-
 (84) 90 669 5527 - dat.nguyenthanhit@gmail.com
+
+
+## About Me
+An engineer focuses mainly on mobile development
+-	With 4 years of experience and passion for mobile development
+-	Hardworking and forward thinking
+-	A willing-to-learn attitude and a confident communicator
+-	Both a team player and independently self-working
 
 ## Working Experience
 ### Software Engineer at Grab (March 2017 - Present)
@@ -64,3 +71,11 @@ RMIT University Vietnam (Saigon South Campus)
 
 ### High school for Gifted - 2007 to 2010
 High school, Social Sciences
+
+## Skils
+- Native Android Development (kotlin, rxJava, dagger, MVP)
+- React Native (redux, typescript, redux-saga)
+- Swift
+- Git
+- SQL
+- Data Structure
