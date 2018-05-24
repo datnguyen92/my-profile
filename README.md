@@ -1,7 +1,9 @@
 # Nguyen Thanh Dat
 209 Le Hong Phong, D5, Ho Chi Minh, Vietnam
+
 (84) 90 669 5527 - dat.nguyenthanhit@gmail.com
 
+**LinkedIn** https://www.linkedin.com/in/datnguyenthanh/
 
 ## About Me
 An engineer focuses mainly on mobile development
